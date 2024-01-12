@@ -2,15 +2,18 @@
 
 A new Flutter project.
 
-## Getting Started
+## About This Project
 
-This project is a starting point for a Flutter application.
+This project is a first time for me about Flutter application so it's have many bug and alot of hardcode,
+In the future if i learn about flutter good enough i will back to fix this project :)
 
-A few resources to get you started if this is your first Flutter project:
+## Preview Application
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![LINE_ALBUM_1112024_240111_0](https://github.com/nawapons/justnote/assets/88156106/5bbc75ef-413e-44fc-8b87-523e4f896f9f)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![LINE_ALBUM_1112024_240111_1](https://github.com/nawapons/justnote/assets/88156106/af5bbb67-6a19-4fb0-bc52-b2bb1da302fb)
+
+![LINE_ALBUM_1112024_240111_5](https://github.com/nawapons/justnote/assets/88156106/e006218e-8379-4e75-80b9-911a7f82410f)
+
+![LINE_ALBUM_1112024_240111_3](https://github.com/nawapons/justnote/assets/88156106/778c4bc5-cf48-449b-bdc0-cad00b6065f1)
+
